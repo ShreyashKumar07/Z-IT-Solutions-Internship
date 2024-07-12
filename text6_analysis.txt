@@ -1,0 +1,17 @@
+Word Count: 16967
+
+10 Most Common Words:
+the: 334
+you: 265
+arthur: 261
+i: 260
+a: 238
+and: 185
+of: 178
+to: 151
+s: 145
+it: 142
+
+Longest Word: automatically
+Average Word Length: 4.09
+Occurrences of words starting with 'the': 451
